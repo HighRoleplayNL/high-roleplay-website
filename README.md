@@ -27,7 +27,7 @@ Open daarna `http://localhost:8000/`. Dit commando installeert niets en is niet 
 - Controleer dat `Over ons` vanuit de hoofd- en voetnavigatie naar de juiste homesectie gaat.
 - Zoek in de APV op termen zoals `RDM`, `metagaming`, `hulpdiensten` en een niet-bestaande term; controleer dat passende hoofdstukken openen.
 - Wis de zoekopdracht met het kruisje via muis en toetsenbord en controleer dat alle hoofdstukken zichtbaar en weer ingeklapt zijn.
-- Open een adres zoals `apv.html#hoofdstuk-15` en controleer dat het gekoppelde hoofdstuk automatisch opent.
+- Open een adres zoals `apv.html#hoofdstuk-continuiteit` en controleer dat het gekoppelde hoofdstuk automatisch opent. Oude numerieke hoofdstuklinks blijven als compatibele verwijzing werken.
 - Schakel JavaScript uit en bevestig dat de volledige APV leesbaar blijft.
 - Controleer dat de Discord-link exact `https://discord.gg/zPV2AMXaX` gebruikt en veilig in een nieuw tabblad opent.
 - Controleer vóór iedere publicatie op geheimen, persoonsgegevens en onverwachte externe bronnen.
@@ -51,15 +51,14 @@ Open daarna `http://localhost:8000/`. Dit commando installeert niets en is niet 
 
 Publiceer pas na expliciete goedkeuring en een laatste veiligheidscontrole:
 
-1. Maak onder de openbare gebruiker `HighRoleplayNL` een **nieuwe, afzonderlijke openbare repository** voor alleen deze website.
-2. Controleer opnieuw dat er geen serverbestanden, sleutels, persoonlijke gegevens of ongewenste geschiedenis aanwezig zijn.
-3. Verwijder `assets/images/hero-preview.jpg` en vervang de hero door een eigen of aantoonbaar toegestane afbeelding.
-4. Voeg daarna pas de repository als remote toe en push branch `main`.
-5. Activeer in de repository-instellingen GitHub Pages vanaf de hoofdmap van branch `main`.
-6. Controleer de gepubliceerde links, 404-pagina en APV opnieuw.
+1. Controleer opnieuw dat er geen serverbestanden, sleutels, persoonlijke gegevens of ongewenste geschiedenis aanwezig zijn.
+2. Verwijder `assets/images/hero-preview.jpg` en vervang de hero door een eigen of aantoonbaar toegestane afbeelding.
+3. Commit en push uitsluitend de gecontroleerde openbare websitebestanden naar de afzonderlijke repository.
+4. Activeer pas na expliciete toestemming GitHub Pages vanaf de hoofdmap van branch `main`.
+5. Controleer de gepubliceerde links, 404-pagina en APV opnieuw.
 
-Deze eerste versie maakt of gebruikt nog geen GitHub-remote en publiceert niets.
+De afzonderlijke GitHub-repository is gekoppeld. GitHub Pages is nog niet ingeschakeld; deze wijzigingsronde wordt niet gecommit of gepubliceerd.
 
 ## Inhoudelijke status
 
-De APV is een eerste concept en nog niet definitief. De open beleidskeuzes staan in `DECISIONS.md`. Verwijder de conceptmarkering pas nadat de eigenaar alle relevante keuzes heeft goedgekeurd.
+De APV is een inhoudelijk aangescherpte conceptversie met veertien hoofdstukken en is nog niet definitief. De resterende open beleidskeuzes staan in `DECISIONS.md`. Verwijder de conceptmarkering pas nadat versie, ingangsdatum en wijzigingsprocedure zijn goedgekeurd.

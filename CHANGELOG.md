@@ -30,3 +30,8 @@ Alle belangrijke wijzigingen aan dit project worden hier bijgehouden. Datums geb
 - APV-zoekbediening vereenvoudigd tot één breed zoekveld met een toegankelijk wiskruisje en blauwe focusweergave.
 - Rechtstreekse hoofdstuklinks en zoekresultaten openen automatisch de relevante hoofdstukken; wissen herstelt het ingeklapte overzicht.
 - Een overbodige herhaling van de voorlopige websitestatus op de 404-pagina verwijderd.
+- De concept-APV inhoudelijk herzien en van zeventien globale hoofdstukken naar veertien logisch gegroepeerde hoofdstukken gebracht.
+- Goedgekeurde regels vastgelegd voor accounts en persona's, NLR, combat logging, overvallen, politiebeschikbaarheid, gangs, overheidscorruptie, communicatie, wapens, staff, sancties, bezwaar en interne bewaartermijnen.
+- APV-regels duidelijk gescheiden van toekomstige IC-wetboeken en technische script- of configuratieregels.
+- Bestaande numerieke hoofdstuklinks als compatibele ankers behouden naast duidelijkere, semantische hoofdstuklinks.
+- De APV-inhoudsopgave markeert het actuele hoofdstuk toegankelijk en blijft op desktop zichtbaar; hoofdstukkaarten gebruiken rustig draaiende chevrons in plaats van plus- en mintekens.

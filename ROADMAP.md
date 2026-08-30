@@ -8,14 +8,20 @@ Iedere fase is klein, afzonderlijk controleerbaar en wordt pas afgerond na een i
 - [x] Mobiel-eerste statische homepage, concept-APV en 404-pagina bouwen.
 - [x] Lokale map voor toekomstige eigen afbeeldingen en logo's toevoegen.
 - [x] Filmische lokale ontwerp-preview bouwen met een door Git genegeerde tijdelijke hero-afbeelding.
-- [ ] Eerste concept-APV inhoudelijk laten beoordelen door de eigenaar.
+- [x] Eerste concept-APV inhoudelijk laten beoordelen en de goedgekeurde kaders verwerken.
 
 **Controlepunt:** geen geheimen, geen serverbestanden, geen externe afhankelijkheden en niets gepubliceerd.
 
 ## Fase 2 — APV-besluiten
 
-- [ ] Open beleidskeuzes in `DECISIONS.md` één voor één goedkeuren of aanpassen.
+- [x] Goedgekeurde kernkeuzes uit de eerste inhoudelijke audit verwerken.
+- [ ] Resterende open beleidskeuzes in `DECISIONS.md` één voor één goedkeuren of aanpassen.
 - [ ] Juridische en communitymatige taal nalopen op duidelijkheid en uitvoerbaarheid.
+- [ ] Een afzonderlijk Wetboek van Strafrecht voor IC-misdrijven, boetes en celstraffen voorbereiden.
+- [ ] Een afzonderlijk Wetboek van Strafvordering voor politiebevoegdheden, procedures en rechten voorbereiden.
+- [ ] Na keuze van de resources kleine en middelgrote overvallen definitief classificeren.
+- [ ] Politiebeschikbaarheid, openbare geaggregeerde status, agentreservering en statuslogging technisch ontwerpen.
+- [ ] Overvalcooldowns, blokkade rond herstarts en een eventuele taakstraf technisch ontwerpen.
 - [ ] Versienummer, ingangsdatum en wijzigingsprocedure vaststellen.
 - [ ] Conceptmarkering pas verwijderen nadat alle keuzes zijn goedgekeurd.
 

@@ -18,7 +18,7 @@ High Roleplay krijgt een professionele, openbare website die toekomstige spelers
 - Taal: **Nederlands**
 - Huidige status: **in ontwikkeling**
 - Beoogde latere hosting: **gratis via een afzonderlijke openbare GitHub Pages-repository**
-- Publicatiestatus: **uitsluitend lokaal; nog niet gekoppeld of gepubliceerd**
+- Publicatiestatus: **afzonderlijke GitHub-repository gekoppeld; GitHub Pages nog niet ingeschakeld**
 - Lokale visuele goedkeuring: **30 augustus 2026**
 
 ## Visuele richting
@@ -39,7 +39,7 @@ High Roleplay krijgt een professionele, openbare website die toekomstige spelers
 
 De homepage introduceert High Roleplay met een compacte filmische hero, vermeldt eenmaal de ontwikkelstatus, verwijst direct naar Discord en de APV en vat in `Over ons` de kernwaarden kwaliteit, eerlijk spel en gezamenlijk verhaal kort samen.
 
-De APV-pagina bevat een originele, Nederlandstalige eerste conceptversie in afzonderlijke, standaard ingeklapte hoofdstukkaarten. Rechtstreekse links en lokaal zoeken openen de relevante inhoud. Vakbegrippen worden kort uitgelegd. Beleid dat concrete staff-, tijds-, aantals- of sanctiekeuzes vereist, blijft zichtbaar gemarkeerd als nog goed te keuren concept.
+De APV-pagina bevat een originele, Nederlandstalige conceptversie in veertien afzonderlijke, standaard ingeklapte hoofdstukkaarten. Rechtstreekse links en lokaal zoeken openen de relevante inhoud. Vakbegrippen worden kort uitgelegd. Spelers- en staffregels blijven gescheiden van toekomstige IC-wetboeken en technische scriptconfiguratie.
 
 ## Grenzen
 
@@ -47,4 +47,4 @@ De APV-pagina bevat een originele, Nederlandstalige eerste conceptversie in afzo
 - Geen tracking, advertenties, cookies, externe lettertypen, frameworks, databases of externe afhankelijkheden.
 - Geen verzonnen statistieken, staffinformatie, openingsdatum of functies.
 - Geen materiaal van andere FiveM-servers.
-- Geen publicatie of GitHub-koppeling in deze fase.
+- Geen GitHub Pages-publicatie zonder een afzonderlijke expliciete opdracht en laatste veiligheidscontrole.

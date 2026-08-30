@@ -30,7 +30,7 @@
 
 html {
   scroll-behavior: smooth;
-  scroll-padding-top: 5.5rem;
+  scroll-padding-top: 5.75rem;
 }
 
 body {
@@ -537,6 +537,10 @@ h3 {
   color: var(--text);
 }
 
+.toc a[aria-current="location"] {
+  color: var(--accent-bright);
+}
+
 .apv-main {
   min-width: 0;
 }
@@ -642,7 +646,13 @@ h3 {
   border: 1px solid var(--border);
   border-radius: 0.7rem;
   background: var(--surface-soft);
-  scroll-margin-top: 5.5rem;
+  scroll-margin-top: 5.75rem;
+}
+
+.legacy-anchor {
+  display: block;
+  height: 0;
+  scroll-margin-top: 5.75rem;
 }
 
 .apv-chapter:last-of-type {
@@ -712,13 +722,17 @@ h3 {
 }
 
 .chapter-toggle::before {
-  content: "+";
-  font-size: 1.25rem;
-  line-height: 1;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-right: 2px solid currentcolor;
+  border-bottom: 2px solid currentcolor;
+  content: "";
+  transform: translateY(-0.12rem) rotate(45deg);
+  transition: transform 180ms ease;
 }
 
 .apv-chapter[open] .chapter-toggle::before {
-  content: "−";
+  transform: translateY(0.12rem) rotate(225deg);
 }
 
 .article,
@@ -921,10 +935,14 @@ h3 {
 
   .apv-sidebar {
     position: sticky;
-    top: 5.4rem;
+    top: 5.25rem;
     max-height: calc(100vh - 6.4rem);
+    max-height: calc(100dvh - 6.4rem);
     overflow-y: auto;
+    overscroll-behavior: contain;
     padding-right: 0.7rem;
+    scrollbar-color: rgb(60 95 130 / 0.72) transparent;
+    scrollbar-width: thin;
   }
 
   .toc {

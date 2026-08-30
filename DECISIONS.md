@@ -62,7 +62,7 @@
 
 **Status:** vastgesteld
 
-**Keuze:** de zeventien APV-hoofdstukken zijn afzonderlijke native inklapbare kaarten en staan bij een regulier bezoek standaard dicht. Een rechtstreekse hoofdstuklink of zoekresultaat opent alleen de relevante inhoud; wissen van de zoekopdracht herstelt het ingeklapte overzicht.
+**Keuze:** de veertien APV-hoofdstukken zijn afzonderlijke native inklapbare kaarten en staan bij een regulier bezoek standaard dicht. Een rechtstreekse hoofdstuklink of zoekresultaat opent alleen de relevante inhoud; wissen van de zoekopdracht herstelt het ingeklapte overzicht.
 
 **Reden:** dit verkort de pagina visueel zonder inhoud te verbergen voor toetsenbordgebruikers, schermlezers of bezoekers zonder JavaScript.
 
@@ -74,15 +74,29 @@
 
 **Reden:** het goedgekeurde ontwerp blijft lokaal herkenbaar en leesbaar zonder een niet-publiceerbaar beeldbestand in Git op te nemen. De tijdelijke hero moet vóór publicatie worden vervangen door een eigen afbeelding of een afbeelding met aantoonbare toestemming.
 
+### D-010 — Scheiding tussen APV, wetboeken en techniek
+
+**Status:** vastgesteld op 30 augustus 2026
+
+**Keuze:** de APV regelt spelersgedrag, staffhandelen en roleplay. IC-misdrijven, boetes en celstraffen komen later in het Wetboek van Strafrecht; politiebevoegdheden, procedures en rechten later in het Wetboek van Strafvordering. Cooldowns, dienststatussen, reserveringen, logging en automatische blokkades worden in scripts of configuratie beheerd.
+
+**Reden:** iedere regel blijft op de juiste plek vindbaar, uitvoerbaar en onderhoudbaar zonder beleidsregels met speltechniek te vermengen.
+
+### D-011 — Goedgekeurde APV-kaders
+
+**Status:** vastgesteld op 30 augustus 2026
+
+**Keuze:** de aangeleverde kaders voor één account en actief personage, NLR, combat logging, overvallen, politiebeschikbaarheid, gangsamenwerking, overheidscorruptie, in-game communicatie, vuurwapens, staffbehandeling, sanctiecategorieën, bezwaar en minimale interne registratie zijn verwerkt in de concept-APV.
+
+**Reden:** deze keuzes zijn inhoudelijk goedgekeurd en vervangen de eerdere open conceptvoorstellen. De APV blijft als geheel een concept totdat versie, ingangsdatum en wijzigingsprocedure zijn vastgesteld.
+
 ## Nog goed te keuren APV-keuzes
 
 Deze punten zijn bewust nog geen definitief beleid:
 
-1. Minimum- en maximumduur voor de New Life Rule en de precieze reikwijdte van geheugenverlies.
-2. Wachttijden, deelnemersaantallen, cooldowns en onderhandelingsvoorwaarden bij overvallen en gijzelingen.
-3. Welke wapens en goederen als schaars gelden en welke bezit-, draag- en handelsvoorwaarden gelden.
-4. Maximale groepsgrootte, herkenbaarheid, bondgenootschappen en gebiedsregels voor gangs en criminele organisaties.
-5. Specifieke verkeersuitzonderingen voor hulpdiensten en voorwaarden voor corruptieroleplay.
-6. Welke externe communicatieprogramma's in welke situaties zijn toegestaan.
-7. Sanctieladder, mogelijke duur van maatregelen, bezwaarprocedure en bewaartermijn voor bewijsmateriaal.
-8. De definitieve APV-versie, ingangsdatum en procedure voor toekomstige wijzigingen.
+1. De definitieve indeling van kleine en middelgrote overvallen nadat de gebruikte resources zijn gekozen.
+2. De inhoud van het toekomstige Wetboek van Strafrecht en Wetboek van Strafvordering.
+3. Eventuele afzonderlijke regels voor messen, slagwapens en andere niet-vuurwapens.
+4. Of later een verborgen, dure en beperkte NPC-bron voor vuurwapens wordt toegevoegd.
+5. De definitieve APV-versie, ingangsdatum en procedure voor toekomstige wijzigingen.
+6. Of per APV-artikel een standaard sanctiecategorie nodig is; staff gebruikt tot die beslissing de vastgestelde algemene beoordelingsfactoren.

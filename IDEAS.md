@@ -12,5 +12,6 @@ De onderstaande ideeën zijn alleen parkeerplaatsen voor later. Ze zijn niet toe
 - Meertaligheid, alleen als daar aantoonbare behoefte aan is en Nederlandse inhoud leidend blijft.
 - Een afzonderlijke pagina `Over ons`, pas wanneer er voldoende goedgekeurde openbare informatie is om die zonder herhaling te vullen.
 - Een rustige bediening om alle APV-hoofdstukken tegelijk te openen of sluiten, alleen als gebruikerstests aantonen dat daar behoefte aan is.
+- Een verborgen, dure en beperkte NPC-bron voor vuurwapens, uitsluitend na afzonderlijke inhoudelijke en technische goedkeuring.
 
 Ideeën met spelersdata, accounts, tracking, betaalfuncties of serverkoppelingen vereisen een afzonderlijke privacy-, beveiligings- en architectuurbeoordeling en horen niet vanzelfsprekend in deze statische website.
