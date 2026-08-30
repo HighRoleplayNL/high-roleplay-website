@@ -1,0 +1,29 @@
+# Besturingssysteem en editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Lokale logs en tijdelijke bestanden
+*.log
+*.tmp
+*.temp
+~$*
+
+# Geheimen en lokale configuratie mogen nooit worden vastgelegd
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Onnodige pakketmappen; dit project heeft geen dependencies
+node_modules/
+
+# Tijdelijke lokale hero-preview met onbekende hergebruikrechten
+/assets/images/hero-preview.jpg
